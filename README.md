@@ -1,4 +1,4 @@
-# MSP432-DAC-SPEAKER
+# MSP432-DAC-Speaker
 An external DAC is used to output a sine wave. A sine wave buffer is coded in C and then fed to the DAC.
 
 Demo:
